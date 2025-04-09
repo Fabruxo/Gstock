@@ -1,7 +1,7 @@
-Documentação do Sistema
+#Documentação do Sistema
 
 
-SUMÁRIO
+##SUMÁRIO
 
 Dados do Cliente	2
 Equipe de Desenvolvimento	3
@@ -25,7 +25,7 @@ Equipe de Desenvolvimento	3
 
  
 
-Dados do Cliente
+##Dados do Cliente
 Título do Projeto: Gstock: Solução para gerenciamento de estoque
 Cliente: Victor Hugo Brito Marião
 CNPJ/CPF: 59.353.373/0001-99
