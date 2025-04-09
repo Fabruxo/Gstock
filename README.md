@@ -1,9 +1,9 @@
-#Documentação do Sistema
+# Documentação do Sistema
 
 
-##SUMÁRIO
+## SUMÁRIO
 
-Dados do Cliente	2
+Dados do Cliente	2 \
 Equipe de Desenvolvimento	3
 1. Introdução	4
 2. Objetivo	5
@@ -25,14 +25,14 @@ Equipe de Desenvolvimento	3
 
  
 
-##Dados do Cliente
-Título do Projeto: Gstock: Solução para gerenciamento de estoque
-Cliente: Victor Hugo Brito Marião
-CNPJ/CPF: 59.353.373/0001-99
-Contato: Victor Hugo
+## Dados do Cliente
+Título do Projeto: Gstock: Solução para gerenciamento de estoque \
+Cliente: Victor Hugo Brito Marião \
+CNPJ/CPF: 59.353.373/0001-99 \
+Contato: Victor Hugo \
 Email do contato: victormariao2003@gmail.com 
 
-Equipe de Desenvolvimento 
+## Equipe de Desenvolvimento 
 
 Nome completo	Curso	Disciplina
 Fabrício Amorim dos Santos	Análise e Desenvolvimento de Sistemas	Padrões de Projeto de Software com Java
@@ -42,7 +42,7 @@ Victor Hugo Brito Marião	Análise e Desenvolvimento de Sistemas	Padrões de Pro
 Professor Orientador
 Kesede Rodrigues Julio
 
-1.	Introdução
+## 1.	Introdução
 
 
 Gstock foi idealizado por nós no momento que o nosso cliente e também integrante nos relatou dos problemas que sua empresa possuía em relação ao gerenciamento das peças automotivas em seu estoque. 
@@ -53,31 +53,31 @@ Para sanar a questão que nos foi proposta, iremos utilizar Java orientado a obj
 Com a finalização do projeto, o cliente poderá realizar o estoque e a saída das peças com uma maior facilidade, transformando o processo em algo simples e rápido.
 
 
-2.	Objetivo
+## 2.	Objetivo
 
 
 O maior problema que nosso cliente enfrenta hoje, é a falta de agilidade na hora de contabilizar as entradas, saídas e peças quebradas no estoque que são feitas manualmente.
 O nosso intuito é facilitar a vida dos estoquistas do nosso cliente criando um sistema de gerenciamento de estoque fácil e simples de ser assimilado por qualquer um.
 
 
-3.	Escopo
+## 3.	Escopo
 
 
 Os principais requisitos que foram citados pelo cliente e que serão implementados são:
 
-●	Cadastro de Produtos
-●	Controle de Entrada e Saída
-●	Movimentações Internas
-●	Histórico de Movimentações
+●	Cadastro de Produtos \
+●	Controle de Entrada e Saída \
+●	Movimentações Internas \
+●	Histórico de Movimentações 
 
 
-4.	Backlogs do Produto
+## 4.	Backlogs do Produto
 
-●	Cadastro de novos usuários
-●	Login dos usuários
-●	Cadastro e Gestão de Itens e Produtos
-●	Controle de Entrada
-●	Controle de Saída
-●	Movimentações Internas
-●	Histórico de Movimentações
+●	Cadastro de novos usuários \
+●	Login dos usuários \
+●	Cadastro e Gestão de Itens e Produtos \
+●	Controle de Entrada \
+●	Controle de Saída \
+●	Movimentações Internas \
+●	Histórico de Movimentações 
 
